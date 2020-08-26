@@ -7,7 +7,7 @@ for (var i = 0; i < 7; i++) {
     console.log("Devi inserire solo numeri");
   }
 
-  if (numeroInserito % 2 != 0 ) {
+  if (numeroInserito % 2 != 0  ) {
     arrayVuoto.push(numeroInserito);
   }
 
